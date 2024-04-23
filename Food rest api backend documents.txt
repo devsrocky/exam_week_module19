@@ -1,0 +1,14 @@
+
+Requirements: 
+1. Create food api
+2. Get all food list
+3. Update single food api
+4. Delete single food api
+
+Food fields:
+1. Food Name
+2. Food code
+3. Food Image
+4. Food Category
+5. QTY
+6. Price
